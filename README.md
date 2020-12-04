@@ -8,7 +8,8 @@ Each project will be in the following links.
 
 | Day | Description |
 | :---: | :---: |
-| Day 1 | Expanding Cards |
+| Day 1 | [Expanding Cards](https://github.com/Lichos17/50days-50projects/tree/master/DayOne) |
+| Day 2 | [Progress Bard](https://github.com/Lichos17/50days-50projects/tree/master/DayTwo) |
 
 
 ## License
